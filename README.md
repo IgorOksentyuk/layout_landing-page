@@ -24,4 +24,4 @@ Get inspired to embark on your next biking adventure or consider investing in a 
 
 To access the Bike Landing Page, simply follow the link below:
 
-[Explore the Bike Landing Page](https://your-landing-page-url.com)
+[Explore the Bike Landing Page]([https://your-landing-page-url.com](https://igoroksentyuk.github.io/layout_landing-page/)https://igoroksentyuk.github.io/layout_landing-page/)
